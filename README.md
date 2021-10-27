@@ -19,7 +19,7 @@
 -
 -
 -
-
+Photo by sIBL Archive / CC BY 3.0
 
 # 進め方
 

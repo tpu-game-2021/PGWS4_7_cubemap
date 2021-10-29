@@ -19,6 +19,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Cubemap_7be7cb1b98c848aaa4f27042c7a81318:
+        m_Texture: {fileID: 8900000, guid: d322ff9250cb2494eadd7d68ac1d4241, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Cubemap_bd48a28aa9f04652ae5992aa64ab298e:
         m_Texture: {fileID: 8900000, guid: a63dc83c77c40b547a0b0f64590d3cd7, type: 3}
         m_Scale: {x: 1, y: 1}

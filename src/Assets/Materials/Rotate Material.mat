@@ -76,6 +76,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_9322fc8bb5764745a4c4b02ff761a47a_Cube_1:
+        m_Texture: {fileID: 8900000, guid: 2db5518b9fb7e6441940422d80fb37a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_1609bbcde2b141698bd8c0e37e7955fe_Cube_1:
+        m_Texture: {fileID: 8900000, guid: 2db5518b9fb7e6441940422d80fb37a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}

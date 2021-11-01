@@ -19,6 +19,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Cubemap_0c285edd65a748c7b0a897d432171b9b:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Cubemap_fd9c6178d83248ebbd66d6e2f8b69ab1:
         m_Texture: {fileID: 8900000, guid: a63dc83c77c40b547a0b0f64590d3cd7, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -67,7 +71,19 @@ Material:
         m_Texture: {fileID: 2800000, guid: 05ff4a05c3c16f3419fabe4a216d0f41, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3c62529431c74ba0a4f3fbf7b8d3bbaa_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 05ff4a05c3c16f3419fabe4a216d0f41, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_4b2ea8f1008d4aa187014766625621d3_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 87cdf3e5293307e43981299c151bcfe9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b0cc37064b6d49268fc8a6d0053c395c_Texture_1:
+        m_Texture: {fileID: 2800000, guid: dcc757effa9a4494ab3862d1623d3b54, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bd81fb8de12a4e5da19f87ba08f561f9_Texture_1:
         m_Texture: {fileID: 2800000, guid: 87cdf3e5293307e43981299c151bcfe9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -77,6 +93,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_d4e8686151a74cdb88d1d071d2d325bf_Texture_1:
         m_Texture: {fileID: 2800000, guid: dcc757effa9a4494ab3862d1623d3b54, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d5510f21358c455385bfb41f5a2d756c_Texture_1:
+        m_Texture: {fileID: 2800000, guid: be71a246918332e47aef51520870488c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:

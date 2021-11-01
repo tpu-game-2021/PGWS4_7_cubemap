@@ -36,6 +36,10 @@ Material:
         m_Texture: {fileID: 8900000, guid: a63dc83c77c40b547a0b0f64590d3cd7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Cubemap_650e322ca3e44e0e9ce817fb66c9f763:
+        m_Texture: {fileID: 8900000, guid: ca49be84ff0f8e0428af946c32cf504a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -74,6 +78,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_1609bbcde2b141698bd8c0e37e7955fe_Cube_1:
+        m_Texture: {fileID: 8900000, guid: 2db5518b9fb7e6441940422d80fb37a9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:

@@ -41,6 +41,5 @@
 - プルリクエストを出して提出してください
 
 # ライセンス
-- sIBL Archive
-- http://www.hdrlabs.com/sibl/archive.html
-- のPBRテクスチャを使用しました。
+- sIBL Archive (http://www.hdrlabs.com/sibl/archive.html)
+  のPBRテクスチャを使用しました。

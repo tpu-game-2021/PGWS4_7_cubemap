@@ -36,6 +36,10 @@ Material:
         m_Texture: {fileID: 8900000, guid: a63dc83c77c40b547a0b0f64590d3cd7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Cubemap_95ff3ff3b42049a893b4fa17d687bdea:
+        m_Texture: {fileID: 8900000, guid: bc23ec71a334a5845b3c13fc9d10930c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}

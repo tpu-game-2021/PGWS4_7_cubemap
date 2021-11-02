@@ -16,7 +16,7 @@
 ![スクリーンショット (46)](https://user-images.githubusercontent.com/55951546/139596036-4115ee84-1f8c-4d48-81af-bda468081753.png)
 
 # 自分なりに変更した点
--
+-背景を猫（宇宙にいる）にしてsphereを地球にしてみた
 -
 -
 

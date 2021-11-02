@@ -32,6 +32,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Cubemap_bd48a28aa9:
+        m_Texture: {fileID: 8900000, guid: e37847397a5838e4983c6af8bc4726e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Cubemap_bd48a28aa9f04652ae5992aa64ab298e:
         m_Texture: {fileID: 8900000, guid: 2db5518b9fb7e6441940422d80fb37a9, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -76,6 +80,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_c520fdf41e2148fea158076cb719207b_Cube_1:
+        m_Texture: {fileID: 8900000, guid: 2db5518b9fb7e6441940422d80fb37a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleCubemap_ead04e840b17476c84aa13bad766ff21_Cube_1:
         m_Texture: {fileID: 8900000, guid: 2db5518b9fb7e6441940422d80fb37a9, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -96,6 +104,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _AlphaClip: 0
     - _Blend: 0

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Best Lit Material 1
-  m_Shader: {fileID: -6465566751694194690, guid: 9d2e8e0cb3db68e4eb9737872951daed, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 15980dffec27ccc419466509b391cffc, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0

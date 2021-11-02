@@ -16,8 +16,8 @@
 ![シェーダグラフ](node_graph.png)
 
 # 自分なりに変更した点
--
--
+-美術館に置いてあるようなイメージで作りました。
+-素材http://www.hdrlabs.com/sibl/archive.html
 -
 
 

@@ -11,12 +11,12 @@
 ![結果画像4](result4.gif)
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.gif)
+![result](https://user-images.githubusercontent.com/55951546/139596022-bc0a162b-08d0-47b8-bf0e-7305d87a874b.gif)
 
-![シェーダグラフ](node_graph.png)
+![スクリーンショット (46)](https://user-images.githubusercontent.com/55951546/139596036-4115ee84-1f8c-4d48-81af-bda468081753.png)
 
 # 自分なりに変更した点
--
+-背景を猫（宇宙にいる）にしてsphereを地球にしてみた
 -
 -
 
